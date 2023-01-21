@@ -77,4 +77,4 @@ class MyClient(discord.Client):
 intents = discord.Intents.default()
 intents.message_content = True
 client = MyClient(intents=intents)
-client.run('MTA1NDY5Njk5MjA4Njk1NDA3NA.GSI69K.hkB7jSsfZiITqEHZYgnnbPeBmzbWMyTLUZ7kxQ')
+client.run('tt')
